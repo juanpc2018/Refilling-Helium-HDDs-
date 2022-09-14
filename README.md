@@ -24,5 +24,5 @@ with a vacuum pump connected to the chamber. </p>
 
 could work. </p>
 
-what is the "Normal" Temp. of a 18TB Helium sealed HDD?
-what is the "Normal" Helium pressure inside the HDD?
+what is the "Normal" Temp. of a 18TB Helium sealed HDD? </br>
+what is the "Normal" Helium pressure inside the HDD? </p>
