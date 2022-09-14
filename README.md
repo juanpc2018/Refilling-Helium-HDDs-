@@ -12,17 +12,30 @@ Refilling a 18TB HDD with Helium could be interesting. </br>
 needs to be done in a sealed aquarium / vacuum chamber, BSL-4 lab type gloves, </p>
  
 Helium reacts to Tesla coil, has a different color vs. oxygen & Nitrogen </br> 
-easy to see, chamber must be vertical to separate heavier oxygen & Nitrogen.
+easy to see, chamber must be vertical to separate heavier oxygen & Nitrogen. </br>
+There are Medical Air concentrators, that have an Oxygen molecular filter, </br>
+removes/stops/filters out Nitrogen and larger particles. </p>
+
+before opening/drilling the HDD, </br>
+the chamber must be vacuum suck to near 0 PSI, to remove any dust.
+If HDD has leaks, or weak spots, the Vacuum will increase the size of the Leak.</p>
 
 problem is placing a valve, or drilling a hole inside the chamber, </br>
-also sealing / soldering again the hole. </p>
+a cordless drill </br>
+also sealing / soldering again the hole.  </br>
+that means the chamber must be big.</p>
 
+then when camber is vacuum empty,  </br>
+can be filled with Helium.  </br>
 Helium pressure inside the chamber must be monitored. </br>
-and when finished,  </br>
+when finished, refilling the HDD, </br>
 Helium inside the chamber must be recollected again to a scuba or paintball tank, aluminum or fiber glass,
 with a vacuum pump connected to the chamber. </p>
 
-could work. </p>
+chamber needs a lot of valves, and vacuum pumps, for oxygen and Helium,
+also an Air concentrator filter loop, Hepa Filter loop </br>
+to have a Clean Room like Intel and others, 1 part per million dust? </br>
+Could Work. </p>
 
 what is the "Normal" Temp. of a 18TB Helium sealed HDD? </br>
 what is the "Normal" Helium pressure inside the HDD? </p>
