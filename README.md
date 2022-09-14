@@ -8,7 +8,7 @@ most work ok. some are worse than others... you have to pray every time you use 
 Some have high temps because Helium leaked or Not enough, less than <80%. some make weird noises sometimes. </br>
 Datacenter trash is another's treasure. LOL.™
 
-Refilling a 18TB HDD with Helium could be interesting. </br>
+Refilling a 18TB HDD with Helium could be interesting project. </br>
 needs to be done in a sealed aquarium / vacuum chamber, BSL-4 lab type gloves, </p>
  
 Helium reacts to Tesla coil, has a different color vs. oxygen & Nitrogen </br> 
