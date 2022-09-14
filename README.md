@@ -10,7 +10,9 @@ Datacenter trash is another's treasure. LOL.™
 
 Refilling a 18TB HDD with Helium could be interesting project. </br>
 needs to be done in a sealed aquarium / vacuum chamber, BSL-3/4 lab glove box cabinet, </p>
- 
+https://certek-usa.com/products/gloveboxes/ </p>
+https://www.fishersci.com/shop/products/labconco-protector-combination-glove-boxes-10/p-4262999 </p>
+
 Helium reacts to Tesla coil, has a different color vs. oxygen & Nitrogen </br> 
 easy to see, chamber must be vertical to separate heavier oxygen & Nitrogen. </br>
 There are Medical Air concentrators, that have an Oxygen molecular filter, </br>
