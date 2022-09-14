@@ -17,7 +17,7 @@ Helium reacts to Tesla coil, has a different color vs. oxygen & Nitrogen </br>
 easy to see, chamber must be vertical to separate heavier oxygen & Nitrogen. </br>
 There are Medical Air concentrators, that have an Oxygen molecular filter, </br>
 removes/stops/filters out Nitrogen and larger particles. </br>
-also may requirean  UV-C Lamp to kill all organism that could grow inside the HDD. </p>
+also may require UV-C Lamp to kill all organism that could grow inside the HDD. </p>
 
 before opening/drilling the HDD, </br>
 the chamber must be vacuum suck to near 0 PSI, to remove any dust.
