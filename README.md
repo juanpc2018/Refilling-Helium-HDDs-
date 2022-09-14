@@ -6,14 +6,15 @@ the reason is that dont pass Quality Control, and dont have Warranty, </br>
 for Storage are ok, Not for 24/7/365 Up time, for weekly/monthly backup only, </br>
 most work ok. some are worse than others... you have to pray every time you use them. LOL.™ </br>
 Some have high temps because Helium leaked or Not enough, less than <80%. some make weird noises sometimes. </br>
-Datacenter trash is another's treasure. LOL.™
+Datacenter trash is another's treasure. LOL.™ </p>
 
 Refilling a 18TB HDD with Helium could be interesting project. </br>
-needs to be done in a sealed aquarium / vacuum chamber, BSL-3/4 lab glove box cabinet, </p>
-https://certek-usa.com/products/gloveboxes/ </p>
-https://www.fishersci.com/shop/products/labconco-protector-combination-glove-boxes-10/p-4262999 </p>
+needs to be done in a sealed aquarium / vacuum chamber, BSL-3/4 lab glove box cabinet, </br>
+https://certek-usa.com/products/gloveboxes/ </br>
+https://www.fishersci.com/shop/products/labconco-protector-combination-glove-boxes-10/p-4262999 </br>
+https://youtu.be/whSZqURhV8w?t=5 </p>
 
-Helium reacts to Tesla coil, has a different color vs. oxygen & Nitrogen </br> 
+Helium reacts to Tesla coil, has a different color vs. Oxygen & Nitrogen </br> 
 easy to see, chamber must be vertical to separate heavier oxygen & Nitrogen. </br>
 There are Medical Air concentrators, that have an Oxygen molecular filter, </br>
 removes/stops/filters out Nitrogen and larger particles. </br>
