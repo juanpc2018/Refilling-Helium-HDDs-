@@ -29,12 +29,12 @@ then when camber is vacuum empty,  </br>
 can be filled with Helium.  </br>
 Helium pressure inside the chamber must be monitored. </br>
 when finished, refilling the HDD, </br>
-Helium inside the chamber must be recollected again to a scuba or paintball tank, aluminum or fiber glass,
-with a vacuum pump connected to the chamber. </p>
+Helium inside the chamber must be recollected to a scuba or paintball tank, aluminum or fiber glass,
+with another vacuum pump connected to the chamber. </p>
 
-chamber needs a lot of valves, and vacuum pumps, for oxygen and Helium,
-also an Air concentrator filter loop, Hepa Filter loop </br>
-to have a Clean Room like Intel and others, 1 part per million dust? </br>
+chamber needs a lot of in/out valves, vacuum pumps for oxygen and Helium,
+also an Air concentrator filter loop, and Hepa Filter loop </br>
+to have a mini Clean Room like Intel and others, 1 part per million dust? </br>
 Could Work. </p>
 
 what is the "Normal" Temp. of a 18TB Helium sealed HDD? </br>
