@@ -2,7 +2,7 @@
 
 i have a "fake" Seagate Exos x20z 18TB hsmr st18000nm013j  </br>
 those drives are cheap 2x18TB = 1x 22TB. </br>
-the reason is that dont pass quality control, and dont have warranty,  </br>
+the reason is that dont pass Quality Control, and dont have Warranty, </br>
 for Storage are ok, Not for 24/7/365 Up time, for weekly/monthly backup only, </br>
 most work ok. some are worse than others... you have to pray every time you use them. LOL.™ </br>
 Some have high temps because Helium leaked or Not enough, less than <80%. some make weird noises sometimes. </br>
