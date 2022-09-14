@@ -9,7 +9,7 @@ Some have high temps because Helium leaked or Not enough, less than <80%. some m
 Datacenter trash is another's treasure. LOL.™
 
 Refilling a 18TB HDD with Helium could be interesting project. </br>
-needs to be done in a sealed aquarium / vacuum chamber, BSL-4 lab type gloves, </p>
+needs to be done in a sealed aquarium / vacuum chamber, BSL-3/4 lab glove box cabinet, </p>
  
 Helium reacts to Tesla coil, has a different color vs. oxygen & Nitrogen </br> 
 easy to see, chamber must be vertical to separate heavier oxygen & Nitrogen. </br>
